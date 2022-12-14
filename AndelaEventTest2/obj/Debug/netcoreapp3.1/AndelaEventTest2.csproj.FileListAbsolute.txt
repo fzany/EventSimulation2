@@ -1,0 +1,12 @@
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/bin/Debug/netcoreapp3.1/AndelaEventTest2.deps.json
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/bin/Debug/netcoreapp3.1/AndelaEventTest2.runtimeconfig.json
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/bin/Debug/netcoreapp3.1/AndelaEventTest2.runtimeconfig.dev.json
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/bin/Debug/netcoreapp3.1/AndelaEventTest2.dll
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/bin/Debug/netcoreapp3.1/AndelaEventTest2.pdb
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.csprojAssemblyReference.cache
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.AssemblyInfoInputs.cache
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.AssemblyInfo.cs
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.csproj.CoreCompileInputs.cache
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.dll
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.pdb
+/Users/olorunfemidavis/source/Gigs/AndelaEventTest2/AndelaEventTest2/obj/Debug/netcoreapp3.1/AndelaEventTest2.genruntimeconfig.cache
